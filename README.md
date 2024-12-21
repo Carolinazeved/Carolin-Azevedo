@@ -11,14 +11,13 @@
 
 ##  :rocket:Atualmente Estudante Curiosa de Tecnologia.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="120" height="120">
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="48" height="48">   <img src="https://skillicons.dev/icons?i=visualstudio" width="48">   <img src="https://skillicons.dev/icons?i=git" width="48">   <img src="https://skillicons.dev/icons?i=html" width="48">   <img src="https://skillicons.dev/icons?i=css" width="48"> 
 ##  :seedling:Tenho 36 anos
 ## :sunny:moro na Cidade do Sol , Fortaleza- Ceará.
 
   
 
-![sun-turn](https://github.com/user-attachments/assets/b5f4dc81-7988-4fe1-a006-1f6442ca2508)
+  ![sun-turn](https://github.com/user-attachments/assets/b5f4dc81-7988-4fe1-a006-1f6442ca2508)
 
 
 ## :family:Mãe e Esposa.
