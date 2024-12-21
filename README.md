@@ -1,4 +1,4 @@
-﻿# Carolin-Azevedo
+﻿# Carolin Azevedo
 ## Hello, Devs!!!👋
 
 
@@ -9,34 +9,27 @@
 </div>
 
 
-* :rocket:Atualmente Estudante Curiosa de Tecnologia.
+##  :rocket:Atualmente Estudante Curiosa de Tecnologia.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="120" height="120">
   
-* :seedling:Tenho 36 anos
- :sunny:moro na Cidade do Sol , Fortaleza- Ceará.
+##  :seedling:Tenho 36 anos
+## :sunny:moro na Cidade do Sol , Fortaleza- Ceará.
 
   
 
 ![sun-turn](https://github.com/user-attachments/assets/b5f4dc81-7988-4fe1-a006-1f6442ca2508)
 
 
-* :family:Mâe e Esposa.
- :airplane: Amo viagens e Crochê
- :coffee:Faço parte do Clã do "CAFÉ SEM AÇUCAR"
+## :family:Mãe e Esposa.
+## :airplane: Amo viagens e Crochê
+## :coffee:Faço parte do Clã do "CAFÉ SEM AÇUCAR"
 
 ![coffee](https://github.com/user-attachments/assets/03c9c69b-d9c0-4754-8938-85fad3aa7990)
 
 
 
  
-  
-  
-  
-  
-  
-  
-  
   
   
   
