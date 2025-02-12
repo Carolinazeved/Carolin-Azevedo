@@ -9,9 +9,11 @@
 </div>
 
 ---
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h3 align="center"> 🚀 Sobre Mim</h3>
+<div align="center">
+<div style="display: flex; align-items: center;">
+  <!-- Coluna de texto -->
+  <div style="flex: 1; padding-right: 10px;">
+    <h3>🚀 Sobre Mim</h3>
     <ul>
       <li>🎓 <strong>Atualmente Estudante Curiosa de Tecnologia</strong></li>
       <li>🌞 <strong>Moro na Cidade do Sol, Fortaleza - Ceará</strong></li>
@@ -20,18 +22,23 @@
       <li>☕ <strong>Faço parte do Clã do "CAFÉ SEM AÇÚCAR"</strong></li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/b5f4dc81-7988-4fe1-a006-1f6442ca2508" alt="Sol" width="100">
-    <img src="https://github.com/user-attachments/assets/03c9c69b-d9c0-4754-8938-85fad3aa7990" alt="Café" width="100">
+  
+  <!-- Imagens -->
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/b5f4dc81-7988-4fe1-a006-1f6442ca2508" alt="Sol" width="200">
+    <img src="https://github.com/user-attachments/assets/03c9c69b-d9c0-4754-8938-85fad3aa7990" alt="Café" width="135" height="150">
   </div>
 </div>
+</div>
+
+
 
 ---
 <div align="center">
   
 ### 💻 Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="48" height="48"> 
   <img src="https://skillicons.dev/icons?i=html" width="48"> 
   <img src="https://skillicons.dev/icons?i=css" width="48"> 
@@ -44,7 +51,7 @@
 <div align="center">
   
 ### 📫 Onde me Encontrar
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/carolinazevedo2" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -63,16 +70,14 @@
 ---
 
 <p align="center">
- <img src= "https://github.com/user-attachments/assets/6580f722-32c5-47aa-9b76-2f2adaa9d7ff" alt="bts" width="200">
+ <img src= "https://github.com/user-attachments/assets/6580f722-32c5-47aa-9b76-2f2adaa9d7ff" alt="bts" width="400">
 </p>
 
 ---
-
-
-  
-   💜 _“Sonhe, tenha esperança, siga em frente, siga em frente.” –  Trecho de “Young Forever” - BTS!_ 🚀
-
-          
+<div align="center">
+ 
+  💜 _“Sonhe, tenha esperança, siga em frente, siga em frente.” –  Trecho de “Young Forever” - BTS!_ 🚀
+  </div> 
           
            
           
